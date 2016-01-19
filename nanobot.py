@@ -5,7 +5,7 @@ import socket, random, time, string
 from time import gmtime, strftime
 
 botnick		= "NanoBot"
-channel		= "#python"
+channel		= "#nosafe"
 nickpass  	= "******"
 server		= "smirnoff.vodka.whocares.ws"
 port		= 6667
